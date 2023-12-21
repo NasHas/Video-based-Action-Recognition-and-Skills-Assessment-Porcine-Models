@@ -1,19 +1,19 @@
 Please read in the following order: 		
 1) 'Information about the procedures (full list)'. 		
 2) Explanation of the rows		
-3) Table of recordings		
+3) DATASET	
 		
 Information about the procedures (full list):		
-1) Fallopian			With or wtihout use of vascular clip. 	
+1) Fallopian			With the use of vascular clip or with burning. The choice is indicated. 	
 2) Lymph node dissection	Either rectal nodes or other nodes (indicated as pelvic nodes)	
-3) Bladder puncture		Part 1 is making a hole in the bladder and Part 2 is suturing of the hole. Full procedure indicates both parts.	
-4) Bowel puncture		Part 1 is making a hole and Part 2 is suturing of the hole. Full procedure indicates both parts.	
-5) Nephrectomy			The procedure consisted of 3 parts: Part 1 dissection of the anterior renal fascia. Part 2 dissection of the vessels. Part 3 release of the kidney. Differences in the beginning and ending point are indicated.	
+3) Bladder puncture		Part 1 is making an incision in the bladder and Part 2 is suturing of the incision. Full procedure indicates both parts.	
+4) Bowel puncture		Part 1 is making an incision and Part 2 is suturing of the incision. Full procedure indicates both parts.	
+5) Nephrectomy			The procedure consisted of 3 parts: Part 1 dissection of the anterior renal fascia. Part 2 dissection of the vessels. Part 3 release of the kidney. Differences in the beginning and ending points are indicated.	
 6) Partial nephrectomy		The procedure was done with or without dissection (of renal fascia), with or without two layers of suture, and if not with two layers of suture, with either V-lock continuous suture or as single sutures with clips. The parts are indicated. 	
 7) Pyeloplasty			Consisted of 2 parts. Part 1 was cutting and preparing ureter. Part two was the anastomosis. The parts are indicated.	
-8) Ureter dissection 		Differences in location for dissection an occur. Som participants start the dissection more cranial, others more caudal. Also, sometimes the surgical field can be messy because of prior procedures, such as lymp node dissection. It is indicated if prior surgery had occured.	
-9) Ureter implantation		Was either done with continuous suturing or by way of Taguchi-method. It is indicated which procedure was made. 	
-10) Rectum dissection		Occurred 3 times with one other procedure, as indicated in the filenames of the relevant recordings. The recordings from day  2 was part of a bigger rectopexy procedure.	
+8) Ureter dissection 		Differences in location for dissection can occur. Som participants began the dissection more cranial, others more caudal. Also, sometimes the surgical field can be messy because of prior procedures, such as lymp node dissection. It is indicated if prior surgery had occured.	
+9) Ureter implantation		Was either done with continuous suturing or by way of Taguchi-method. It is indicated which procedure was made. One video had a premade incision.	
+10) Rectum dissection		Occurred 3 times with one other procedure, as indicated in the filenames of the relevant recordings. The recordings from day 2 was part of a bigger rectopexy procedure.	
 11) Mesh in rectum		This procedures was part of a bigger rectopexy procedure.	
 12) Hysterectomy		This procedures was part of a bigger rectopexy procedure.	
 13) Ureter anastomosis		No comments.
@@ -23,13 +23,13 @@ Information about the procedures (full list):
 		
 Explanation of the rows:		
 1) Filename		
-2) Course (Which specialty had the main responsibility of the course)		
-3) Day of course (Which day of the course was recorded. Sometimes imrprovement can be seen from the first to the second day)		
+2) Course (Which medical specialty had the main responsibility of the course)		
+3) Day of course (Which day of the course was recorded. Sometimes improvement can be seen from the first to the second day)		
 4) Frames per second		
-5) Width and height (recorded width and height)		
+5) Width and height (recorded width and height of the frames)		
 6) Comments (Comments on the recordings in accordance to the 'Information about the procedures')		
 
-Table of recordings:					
+DATASET:					
 Filename					Course 			Day of course	Frames per second	Width x Height	Comments
 AAA Fallopian					Urology						30		1920x1080	Vascular clip of a. uterina
 AAA Lymph node dissection			Urology						30		1920x1080	Pelvic nodes
@@ -97,7 +97,7 @@ LLL Lymph node dissection (2)			Urology			   Day 2		30		1280x720	Pelvic nodes
 LLL Partial nephrectomy				Urology			   Day 2		30		1280x720	With dissection and with V-lock continuous suture
 LLL Ureter dissection				Urology			   Day 1		30		1280x720	Prior surgery had occurred
 LLL Ureter dissection (2)			Urology			   Day 2		30		1920x1080	Prior surgery had occurred
-LLL Ureter implantation				Urology			   Day 1		30		1920x1080	Taguchi method
+LLL Ureter implantation				Urology			   Day 1		30		1920x1080	Taguchi method. Incision in bladder was premade. 
 LLL Ureter implantation (2)			Urology			   Day 2		30		1920x1080	Taguchi method
 MMM Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
 MMM Lymph node dissection			Urology			   Day 1		30		1920x1080	Pelvic nodes
