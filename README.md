@@ -6,7 +6,7 @@ The codes are open-source. However, when using the code, please make a reference
 Instructions:
 
 1) Download the video data.
-2) Download the .txt files with GDPR-secured information about participants and dataset.
+2) Download the .txt files with GDPR-secured information about dataset, participants and labels.
 3) Use 
 
 
