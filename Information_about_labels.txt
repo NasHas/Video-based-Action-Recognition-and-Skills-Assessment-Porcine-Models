@@ -1,0 +1,35 @@
+Information about label-files.
+
+Columns:
+A) (Observation) Timestamps for stamps for start and end of an event. 
+B) Name of the file.
+C) (Unnamed: 2) Total length of the video
+D) (Unnamed: 3) FPS of the video
+F) (Unnamed: 5) Events
+I) (Unnamed: 8) Start and Stop of the events.
+
+Information about the events:
+
+There are three main-groups of events, which have been timestamped throughout the video-recordings:
+S: Suture
+D: Dissection
+A: Other
+
+All main-groups have subgroups:
+S hånd = Suture handling with the robot instruments
+S fort = Continuous suture
+S enkelt = Single suture
+S Sutur = When suture is placed in the tissue
+
+D alm = Sharp, blunt and coagulation dissection
+D klips = Tissue or vessel clip being placed
+D hæm = Hemostasis (Stopping bleeding)
+
+A tør = using gaze to dry surgical field
+A sug = Using suction
+A skift = Changing robot arm
+A katerplacering = Insertion/movement of the urinary catheter
+A kam = Camera clutching/movement/control
+A holdt st = Using 4th robot arm to hold
+A eks = external instrument (assistant instrument - non-robot instrument)
+A hold andre = holding organ or tissue with other instruments
