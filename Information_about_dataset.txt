@@ -6,7 +6,7 @@ Please read in the following order:
 Information about the procedures (full list):		
 1) Fallopian			With the use of vascular clip or with burning. The choice is indicated. 	
 2) Lymph node dissection	Either rectal nodes or other nodes (indicated as pelvic nodes)	
-3) Bladder puncture		Part 1 is making an incision in the bladder and Part 2 is suturing of the incision. Full procedure indicates both parts.	
+3) Bladder defect suturing	Part 1 is making an incision in the bladder and Part 2 is suturing of the incision. Full procedure indicates both parts.	
 4) Bowel puncture		Part 1 is making an incision and Part 2 is suturing of the incision. Full procedure indicates both parts.	
 5) Nephrectomy			The procedure consisted of 3 parts: Part 1 dissection of the anterior renal fascia. Part 2 dissection of the vessels. Part 3 release of the kidney. Differences in the beginning and ending points are indicated.	
 6) Partial nephrectomy		The procedure was done with or without dissection (of renal fascia), with or without two layers of suture, and if not with two layers of suture, with either V-lock continuous suture or as single sutures with clips. The parts are indicated. 	
@@ -34,10 +34,10 @@ Filename					Course 			Day of course	Frames per second	Width x Height	Comments
 AAA Fallopian					Urology						30		1920x1080	Vascular clip of a. uterina
 AAA Lymph node dissection			Urology						30		1920x1080	Pelvic nodes
 AAA lymph node dissection (2)			Urology						30		1920x1080	Pelvic nodes
-BBB Bladder puncture				Urology						30		1920x1080	Full procedure
+BBB Bladder defect suturing			Urology						30		1920x1080	Full procedure
 BBB Bowel puncture				Urology						30		1920x1080	Full procedure
 BBB Lymph node dissection			Urology						30		1280x720	Pelvic nodes
-CCC Bladder puncture				Urology						30		1280x720	Full procedure
+CCC Bladder defect suturing			Urology						30		1280x720	Full procedure
 CCC Bowel puncture 				Urology						30		1920x1080	Only part 2
 CCC Cystectomy					Urology						30		1920x1080	
 CCC Fallopian					Urology						30		1920x1080	Burning of a. uterina
@@ -48,7 +48,7 @@ CCC Nephrectomy 				Urology						30		1920x1080	Part 2 and 3
 CCC Partial nephrectomy				Urology						30		1920x1080	With dissection and with V-lock continuous suture
 CCC Partial nephrectomy (2)			Urology						30		1920x1080	With dissection and with V-lock continuous suture
 DDD Bowel anastomosis 				General surgery					15		1280x720	
-EEE Bladder puncture 				Urology						30		1920x1080	Full procedure
+EEE Bladder defect suturing 			Urology						30		1920x1080	Full procedure
 EEE Bowel puncture				Urology						30		1280x720	Full procedure
 EEE Lymph  node dissection			Urology						30		1920x1080	Rectal nodes
 EEE Lymph  node dissection (2)			Urology						30		1920x1080	Rectal nodes
@@ -59,37 +59,37 @@ FFF Partial nephrectomy (2)			Urology			   Day 2		15		1280x720	With dissection a
 FFF Pyeloplasty 				Urology			   Day 2		15		1280x720	Part 1
 FFF Ureter dissection				Urology			   Day 1		15		1280x720	
 FFF Ureter implantation				Urology			   Day 2		15		1280x720	Continuous suturing
-GGG Bladder puncture				General surgery		   Day 1		15		1280x720	Full procedure
+GGG Bladder defect suturing			General surgery		   Day 1		15		1280x720	Full procedure
 GGG Bowel anastomosis 				General surgery	       	   Day 2 		15		1280x720	Full procedure
 GGG Hysterectomy and rectum dissection		General surgery		   Day 2		15		1280x720	
 GGG Lymph node dissection			General surgery		   Day 1		15		1280x720	Pelvic nodes
 GGG Mesh in rectum				General surgery		   Day 2		15		1280x720	
 GGG Nephrectomy					General surgery		   Day 1		15		1280x720	Full procedure
 GGG Ureter dissection				General surgery		   Day 1		15		1280x720	Prior surgery had occurred
-HHH Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
-HHH Bladder puncture (2)			Urology			   Day 2		30		1920x1080	Full procedure
+HHH Bladder defect suturing			Urology			   Day 1		30		1920x1080	Full procedure
+HHH Bladder defect suturing (2)			Urology			   Day 2		30		1920x1080	Full procedure
 HHH Fallopian					Urology			   Day 1		30		1280x720	Vascular clip of a. uterina
 HHH Fallopian (2)				Urology			   Day 2		30		1280x720	Vascular clip of a. uterina
 HHH Lymph node dissection			Urology			   Day 1		30		1920x1080	Pelvic nodes
 HHH Lymph node dissection (2)			Urology			   Day 2		30		1920x1080	Pelvic nodes
 HHH Partial nephrectomy				Urology			   Day 2		30		1920x1080	With dissection and with single sutures with clips
-III Bladder puncture				Urology			   Day 2		30		1920x1080	Full procedure
+III Bladder defect suturing			Urology			   Day 2		30		1920x1080	Full procedure
 III Fallopian					Urology			   Day 1		30		1920x1080	Vascular clip of a. uterina
 III Fallopian (2)				Urology			   Day 2		30		1920x1080	Burning of a. uterina
-JJJ Bladder puncture				General surgery		   Day 1		15		1280x720	Full procedure
+JJJ Bladder defect suturing			General surgery		   Day 1		15		1280x720	Full procedure
 JJJ Lymph node dissection			General surgery		   Day 1		15		1280x720	Pelvic nodes
 JJJ Rectum dissection				General surgery		   Day 1		15		1280x720	
 JJJ Dissection of vessels			General surgery		   Day 2		15		1280x720	
 JJJ Rectum dissection and mesh in rectum	General surgery		   Day 2		15		1280x720	
-KKK Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
-KKK Bladder puncture (2)			Urology			   Day 2		30		1280x720	Full procedure
+KKK Bladder defect suturing			Urology			   Day 1		30		1920x1080	Full procedure
+KKK Bladder defect suturing (2)			Urology			   Day 2		30		1280x720	Full procedure
 KKK Fallopian					Urology			   Day 1		30		1920x1080	Vascular clip of a. uterina
 KKK Fallopian (2)				Urology			   Day 2		30		1280x720	Vascular clip of a. uterina
 KKK Lymph node dissection			Urology			   Day 1		30		1920x1080	Pelvic nodes
 KKK Lymph node dissection (2)			Urology			   Day 1		30		1920x1080	Pelvic nodes
 KKK Lymph node dissection (3)			Urology			   Day 2		30		1920x1080	Pelvic nodes
-LLL Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
-LLL Bladder puncture (2)			Urology			   Day 2		30		1280x720	Full procedure
+LLL Bladder defect suturing			Urology			   Day 1		30		1920x1080	Full procedure
+LLL Bladder defect suturing (2)			Urology			   Day 2		30		1280x720	Full procedure
 LLL Fallopian 					Urology			   Day 1		30		1280x720	Vascular clip of a. uterina
 LLL Fallopian (2)				Urology			   Day 2		30		1920x1080	Burning of a. uterina
 LLL Lymph node dissection			Urology			   Day 1		30		1280x720	Pelvic nodes
@@ -99,27 +99,27 @@ LLL Ureter dissection				Urology			   Day 1		30		1280x720	Prior surgery had occu
 LLL Ureter dissection (2)			Urology			   Day 2		30		1920x1080	Prior surgery had occurred
 LLL Ureter implantation				Urology			   Day 1		30		1920x1080	Taguchi method. Incision in bladder was premade. 
 LLL Ureter implantation (2)			Urology			   Day 2		30		1920x1080	Taguchi method
-MMM Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
+MMM Bladder defect suturing			Urology			   Day 1		30		1920x1080	Full procedure
 MMM Lymph node dissection			Urology			   Day 1		30		1920x1080	Pelvic nodes
 MMM Lymph node dissection (2)			Urology			   Day 2		30		1920x1080	Pelvic nodes
 MMM Lymph node dissection (3)			Urology			   Day 2		30		1920x1080	Pelvic nodes
 MMM Nephrectomy					Urology			   Day 1		30		1920x1080	Full procedure
 MMM Partial nephrectomy				Urology			   Day 2		30		1920x1080	With dissection and with two layers of suture
 MMM Ureter dissection				Urology			   Day 2		30		1920x1080	Prior surgery had occurred
-NNN Bladder puncture				Gynecology		   Day 1		30		1920x1080	Only part 2
+NNN Bladder defect suturing			Gynecology		   Day 1		30		1920x1080	Only part 2
 NNN Bowel puncture				Gynecology		   Day 1		30		1280x720	Only part 2
 NNN Lymph node dissection			Gynecology		   Day 2		30		1920x1080	Pelvic nodes
 NNN Ureter anastomosis				Gynecology		   Day 2 		30		1920x1080	
 NNN Ureter dissection				Gynecology		   Day 1		30		1920x1080	
 NNN Ureter dissection (2)			Gynecology		   Day 2		30		1920x1080	
-OOO Bladder puncture				Gynecology		   Day 1		30		1920x1080	Only part 2
+OOO Bladder defect suturing			Gynecology		   Day 1		30		1920x1080	Only part 2
 OOO Bowel puncture				Gynecology		   Day 1		30		1280x720	Only part 2
 OOO Lymph node dissection			Gynecology		   Day 2		30		1920x1080	Rectal nodes
 OOO Lymph node dissection (2)			Gynecology		   Day 2		30		1920x1080	Pelvic nodes
 OOO Ureter anastomosis				Gynecology		   Day 2		30		1920x1080	
 OOO Ureter dissection				Gynecology		   Day 1		30		1920x1080	
 OOO Ureter dissection (2)			Gynecology		   Day 2		30		1920x1080	
-PPP Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
+PPP Bladder defect suturing			Urology			   Day 1		30		1920x1080	Full procedure
 PPP Lymph node dissection			Urology			   Day 1		30		1920x1080	Pelvic nodes
 PPP Lymph node dissection (2)			Urology			   Day 2		30		1920x1080	Pelvic nodes
 PPP Lymph node dissection (3)			Urology			   Day 2		30		1920x1080	Rectal nodes
@@ -127,22 +127,22 @@ PPP Ureter dissection				Urology			   Day 1		30		1920x1080	Prior surgery had occ
 PPP Ureter dissection (2)			Urology			   Day 2		30		1920x1080	Prior surgery had occurred
 PPP Ureter implantation				Urology			   Day 1		30		1920x1080	Continuous suturing
 PPP Ureter implantation (2)			Urology			   Day 2		30		1920x1080	Continuous suturing
-QQQ Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
-QQQ Bladder puncture (2)			Urology			   Day 2		30		1920x1080	Full procedure
+QQQ Bladder defect suturing			Urology			   Day 1		30		1920x1080	Full procedure
+QQQ Bladder defect suturing (2)			Urology			   Day 2		30		1920x1080	Full procedure
 QQQ Fallopian					Urology			   Day 1		30		1280x720	Vascular clip of a. uterina
 QQQ Fallopian (2)				Urology			   Day 2		30		1280x720	Burning of a. uterina
 QQQ Lymph node dissection			Urology			   Day 1		30		1280x720	Rectal nodes
 QQQ Lymph node dissection (2)			Urology			   Day 2		30		1280x720	Rectal nodes
 QQQ Partial nephrectomy				Urology			   Day 2		30		1920x1080	Without dissection and with V-lock continuous suture
 QQQ Ureter implantation				Urology			   Day 2		30		1920x1080	Taguchi method
-RRR Bladder puncture				Urology			   Day 1		30		1920x1080	Full procedure
-RRR Bladder puncture (2)			Urology			   Day 2		30		1920x1080	Full procedure
+RRR Bladder defect suturing			Urology			   Day 1		30		1920x1080	Full procedure
+RRR Bladder defect suturing (2)			Urology			   Day 2		30		1920x1080	Full procedure
 RRR Lymph node dissection			Urology			   Day 1		30		1920x1080	Rectal nodes
 RRR Lymph node dissection (2)			Urology			   Day 2		30		1920x1080	Rectal nodes
 RRR Nephrectomy					Urology			   Day 2		30		1920x1080	Part 2 and 3
 RRR Ureter dissection				Urology			   Day 1		30		1920x1080	Prior surgery had occurred
 RRR Ureter dissection (2)			Urology			   Day 2		30		1920x1080	Prior surgery had occurred
-SSS Bladder puncture				Urology			   Day 1		15		1280x720	Only part 1
+SSS Bladder defect suturing			Urology			   Day 1		15		1280x720	Only part 1
 SSS Bowel puncture				Urology			   Day 1		15		1280x720	Only part 2
 SSS Lymph node dissection			Urology			   Day 1		15		1280x720	Pelvic nodes
 SSS Partial nephrectomy				Urology			   Day 1		15		1280x720	With dissection and with two layers of suture
@@ -151,11 +151,11 @@ SSS Pyeloplasty					Urology			   Day 2		15		1280x720	Part 2
 SSS Ureter dissection				Urology			   Day 1		15		1280x720	
 SSS Ureter dissection (2)			Urology			   Day 2		15		1280x720	
 SSS Ureter implantation				Urology			   Day 2		15		1280x720	Continuous suturing
-TTT Bladder puncture				Urology			   Day 2		30		1920x1080	Full procedure
+TTT Bladder defect suturing			Urology			   Day 2		30		1920x1080	Full procedure
 TTT Fallopian					Urology			   Day 1		30		1920x1080	Vascular clip of a. uterina
 TTT Fallopian (2)				Urology			   Day 2		30		1920x1080	Vascular clip of a. uterina
-UUU Bladder puncture				Urology			   Day 1		15		1280x720	Only part 2
-UUU Bladder puncture (2)			Urology			   Day 2		15		1280x720	Full procedure
+UUU Bladder defect suturing			Urology			   Day 1		15		1280x720	Only part 2
+UUU Bladder defect suturing (2)			Urology			   Day 2		15		1280x720	Full procedure
 UUU Fallopian					Urology			   Day 1		15		1280x720	Burning of a. uterina
 UUU Nephrectomy					Urology			   Day 1		15		1280x720	Only part 2 and 3
 UUU Nephrectomy (2)				Urology			   Day 2		15		1280x720	Only part 2
