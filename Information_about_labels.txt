@@ -2,7 +2,7 @@ Information about label-files.
 
 Columns:
 A) (Observation) Timestamps for stamps for start and end of an event. 
-B) Name of the file.
+B) 'Name of the file'.
 C) (Unnamed: 2) Total length of the video
 D) (Unnamed: 3) FPS of the video
 F) (Unnamed: 5) Events
