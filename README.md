@@ -11,4 +11,4 @@ Instructions:
 4) Use the algorithm 
 
 
-/Hashemi, N. et. al. 2024
+/Hashemi et. al. 2024
