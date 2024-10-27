@@ -4,7 +4,7 @@ ACTION RECOGNITION
 
 TEST SET:
                            
-Participants: CCC HHH LLL PPP SSS UUU 
+Participants: CCC LLL PPP SSS UUU 
 
 Videos:
 CCC Bowel puncture 
@@ -16,7 +16,7 @@ SSS Pyeloplasty
 
 VALIDATION SET:
 
-Participants: BBB EEE FFF GGG NNN TTT
+Participants: EEE FFF GGG NNN TTT
 
 Videos:
 NNN Ureter dissection
