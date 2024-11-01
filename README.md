@@ -7,7 +7,7 @@ Instructions:
 
 1) Download the video data using the link from 'Videos.txt'.
 2) Download the labels from 'Labels.zip'.
-3) Download the .txt files with GDPR-secured information about dataset, participants and labels ('Information_about_dataset.txt', 'Information_about_participants.txt', 'Information_about_labels.txt'.
+3) Download the .txt files with GDPR-secured information about dataset, participants and labels ('Information_about_dataset.txt', 'Information_about_participants.txt', 'Information_about_labels.txt').
 4) Use the algorithm, following the steps below:
    Have all the .py files in one folder, all the videos in another folder, and all the labels in a third folder.
    1) Use 'Publication_main vidoes to frames.py' to split videos into indiviual frames
