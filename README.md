@@ -5,9 +5,8 @@ The codes are open-source. However, when using the code, please make a reference
 
 Instructions:
 
-1) Download the video data and labels from: https://www.synapse.org/Synapse:syn63852421/wiki/
-2) Download the .txt files with GDPR-secured information about dataset, participants and labels ('Information_about_dataset.txt', 'Information_about_participants.txt', 'Information_about_labels.txt').
-3) Use the algorithm, following the steps below:
+1) Download the video data, labels, and information about the dataset from: https://www.synapse.org/Synapse:syn63852421/wiki/
+2) Use the algorithm, following the steps below:
    Have all the .py files in one folder, all the videos in another folder, and all the labels in a third folder.
    1) Use 'Publication_main vidoes to frames.py' to split videos into indiviual frames
    2) Use 'Publication_Preprocessing.py' to generate training, validation and test sets.
@@ -18,6 +17,8 @@ Instructions:
    6) Use 'Publication_ ActionRecognition_Cross_Validation.py' to do five-fold cross validation for action recognition.
    7) Use 'Publication_Skills Assessment Cross Validation.py'
    8) Use 'Publication_GradCam_DvS.py' to create GradCAM images of your test results (either action recognition or skills assessmnet).
-
+      
+EXTRA:
+3) Download the 'Datasets and included videos for AC and SA from Hashemi et al 2024.txt' for information about how our training, validation and test-sets where constructed.
 
 /Hashemi et. al. 2024
