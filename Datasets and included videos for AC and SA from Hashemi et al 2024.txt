@@ -16,7 +16,7 @@ SSS Pyeloplasty
 
 VALIDATION SET:
 
-Participants: BBB EEE FFF GGG NNN TTT
+Participants: EEE FFF GGG NNN TTT
 
 Videos:
 NNN Ureter dissection
