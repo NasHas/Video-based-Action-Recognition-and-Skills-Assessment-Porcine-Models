@@ -1,0 +1,161 @@
+------------------------------
+ACTION RECOGNITION
+------------------------------
+
+TEST SET:
+                           
+Participants: CCC LLL PPP SSS UUU 
+
+Videos:
+LLL Lymph node dissection
+CCC Partial nephrectomy
+CCC Lymph node dissection
+LLL Fallopian
+LLL Ureter implantation	
+CCC Bowel puncture 
+LLL Fallopian (2)
+SSS Pyeloplasty	
+PPP Ureter dissection (2)
+UUU Ureter dissection
+
+
+VALIDATION SET:
+
+Participants: EEE FFF GGG NNN TTT
+
+Videos:
+EEE Lymph  node dissection (2)
+NNN Lymph node dissection
+FFF Bowel puncture
+NNN Bowel puncture
+NNN Ureter dissection
+GGG Mesh in rectum
+EEE Lymph node dissection
+NNN Ureter dissection (2)
+TTT Fallopian (2)
+
+	
+TRAINING SET
+
+Participants: AAA BBB HHH III JJJ KKK MMM OOO QQQ RRR    
+
+Videoes:
+HHH Bladder defect suturing
+HHH Fallopian	
+HHH Lymph node dissection
+III Fallopian
+JJJ Bladder defect suturing
+JJJ Lymph node dissection
+JJJ Rectum dissection
+BBB Bladder defect suturing
+BBB Bowel puncture	
+BBB Lymph node dissection
+KKK Bladder defect suturing
+KKK Fallopian
+KKK Lymph node dissection
+KKK Lymph node dissection (2)
+MMM Lymph node dissection
+MMM Bladder defect suturing
+MMM Nephrectomy
+OOO Bladder defect suturing
+OOO Bowel puncture
+OOO Ureter dissection
+QQQ Bladder defect suturing
+QQQ Fallopian
+QQQ Lymph node dissection
+RRR Bladder defect suturing
+RRR Lymph node dissection
+RRR Ureter dissection	
+HHH Fallopian (2)
+HHH Bladder defect suturing (2)	
+HHH Lymph node dissection (2)
+HHH Partial nephrectomy	
+III Bladder defect suturing
+III Fallopian (2)
+JJJ Dissection of vessels
+JJJ Rectum dissection and mesh in rectum
+KKK Bladder defect suturing (2)
+KKK Fallopian (2)
+KKK Lymph node dissection (3)
+MMM Lymph node dissection (2)
+MMM Lymph node dissection (3)
+MMM Partial nephrectomy
+MMM Ureter dissection
+OOO Lymph node dissection
+OOO Lymph node dissection (2)
+OOO Ureter anastomosis	
+OOO Ureter dissection (2)
+QQQ Bladder defect suturing (2)
+QQQ Fallopian (2)
+QQQ Lymph node dissection (2)
+QQQ Partial nephrectomy
+QQQ Ureter implantation
+RRR Bladder defect suturing (2)
+RRR Lymph node dissection (2)
+RRR Nephrectomy	
+RRR Ureter dissection (2)
+AAA Fallopian
+AAA Lymph node dissection
+AAA lymph node dissection (2)
+
+
+------------------------------
+SKILLS ASSESSMENT:
+------------------------------
+
+TEST SET:
+
+Participants: 
+Novice: KKK
+Experienced: EEE
+
+Videos:
+KKK Lymph node dissection
+KKK Lymph node dissection (2)
+EEE Lymph  node dissection
+EEE Bladder defect suturing 	
+
+
+VALIDATION SET:
+
+Participants: 
+Novice: PPP
+Experienced: BBB
+
+Videos:
+PPP Lymph node dissection
+BBB Bowel puncture
+BBB Lymph node dissection	
+
+TRAINING SET:
+
+Participants:
+Novice: MMM RRR LLL III GGG HHH SSS QQQ
+Experienced: CCC DDD AAA 
+
+Videos:
+CCC Bladder defect suturing
+CCC Lymph node dissection (2)
+CCC Bowel puncture 
+DDD Bowel anastomosis 	
+AAA Fallopian
+CCC Cystectomy
+CCC Lymph node dissection 
+CCC Nephrectomy 
+CCC Partial nephrectomy	
+CCC Fallopian	
+CCC Lymph node dissection (3)
+MMM Lymph node dissection
+RRR Nephrectomy
+LLL Lymph node dissection (2)
+III Bladder defect suturing
+GGG Lymph node dissection
+HHH Fallopian	
+SSS Bowel puncture
+RRR Bladder defect suturing	
+QQQ Lymph node dissection (2)
+
+
+
+
+
