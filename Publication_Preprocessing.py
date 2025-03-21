@@ -243,8 +243,7 @@ Final_test_set= Final_test_set.sample(frac=1)
 Final_test_set.to_csv(directory_path+'\\Final_test_set.csv', columns=['Filname'], index=False, header=False)
 
 # Find out which participants' videos are present in the test-set
-list_of_names = pd.DataFrame({"Names":["Daniel","Meindert","Stepan","Anders","Ivy","Martin","Cihan","Emiliano","Eske",\
-                                       "Nanne","Anne","Ehsan","Karen","Poul","Lisa","Gennady","Mads","Morten","Jens"]})
+list_of_names = pd.DataFrame({"Names":["NAME1","NAME2"]}) #INSERT NAMES
 matching_names = []
 
 #Loop to match names and test sample
