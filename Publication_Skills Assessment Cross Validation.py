@@ -116,7 +116,6 @@ def generate_samples(img_name, label, n_samples, img_path):
         for i in range(len(X1[1-1])):
             FullName = img_path + X1[j,i]
             img = cv2.imread(FullName[0], 1)
-            #img = cv2.imread('D:\\AllFramesPorcine\\Dag 1 Aage hul paa tarmen frame3.jpg', 1)
             img = Image.fromarray(img.astype(np.uint8))
             loadedImgSize = np.size(img)
 
@@ -393,5 +392,6 @@ for fold, (train_acc, val_acc) in enumerate(zip(acc_arr_train_fold, acc_arr_val_
 
 # for acc in acc_per_fold:
 #     print("accuracy for this fold is: ", acc)
+
 
 
